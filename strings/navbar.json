@@ -1,6 +1,6 @@
 { 
     "brand_name": "Tokai",
-    "brand_logo_url": "/static/assets/logo.svg", 
+    "brand_logo_url": "https://edwardsoen.github.io/Tokai-website-assets/other_images/logo.svg", 
     "navbar_items":{
         "en":[{
             "navbar_item_title": "Products", 

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   viewBox="0 0 910.09001 423.52"
+   version="1.1"
+   sodipodi:docname="Tokai.svg"
+   width="910.09003"
+   height="423.51999"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7969083"
+     inkscape:cx="645.83151"
+     inkscape:cy="205.07446"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1-2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #221f5c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ffe600;
+      }
+    </style>
+  </defs>
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1"
+     transform="translate(-142.15,-78.84)">
+    <g
+       id="g5">
+      <path
+         class="cls-3"
+         d="m 296.93,167.35 h -85.76 l 44.87,-86.39 471.51,-2.12 c 0,0 -96.31,8.25 -211.87,54.8 -95.18,38.34 -222.88,104.79 -264.84,187.61 -8.95,17.66 -4.04,50.96 7.06,67.35 11.1,16.39 27.55,28.36 44.47,38.65 -1.02,4.44 -24.7,75.11 -24.7,75.11 H 142.15 C 197.18,392.98 237.73,274 296.93,167.35 Z"
+         id="path1" />
+      <path
+         class="cls-3"
+         d="m 325.08,423.36 c -14.6,-7.99 -17.55,-50.14 -15.98,-66.71 4.86,-51.43 111.7,-119.06 220.99,-163.31 113.27,-45.87 220.19,-64.54 262.68,-59.07 42.5,5.47 71.83,26.82 87.37,66.75 28.93,-18.45 31.9,-65.67 7.74,-90.03 -14.14,-14.26 -34.61,-20.15 -54.43,-23.42 -67.86,-11.2 -137.34,1.92 -203.8,19.62 -116.22,30.95 -231.28,77.72 -319.98,158.94 -13.25,12.14 -23.92,25.09 -33.82,40.08 -7.94,12.02 -13.83,25.73 -14.4,40.12 -1.7,42.97 45.02,75.77 63.62,77.02 z"
+         id="path2" />
+      <path
+         class="cls-3"
+         d="m 558.08,217.34 c -44.37,-8.45 -89.05,30.49 -99.8,86.97 -10.75,56.48 16.5,109.11 60.87,117.56 44.37,8.45 89.05,-30.49 99.8,-86.97 10.75,-56.48 -16.5,-109.11 -60.87,-117.56 z m 31.33,111.93 c -6.8,35.71 -35.05,60.34 -63.11,55 -28.06,-5.34 -45.29,-38.62 -38.49,-74.34 6.8,-35.72 35.05,-60.34 63.11,-55 28.06,5.34 45.29,38.62 38.49,74.34 z"
+         id="path3" />
+      <polygon
+         class="cls-3"
+         points="691.73,297.72 707.13,217.08 663.06,217.08 626.03,421.44 667.71,421.44 673.74,369.67 706.72,335.94 746.62,421.44 794.85,421.44 738.95,308.21 827.84,217.08 770.13,217.08 "
+         id="polygon3" />
+      <polygon
+         class="cls-3"
+         points="832.74,421.44 898.98,267.03 909.71,421.44 958.38,421.44 935.88,217.08 877.46,217.08 789.16,421.44 "
+         id="polygon4" />
+      <polygon
+         class="cls-3"
+         points="1012.11,421.44 1052.24,217.08 999.07,217.08 959.95,421.44 "
+         id="polygon5" />
+    </g>
+  </g>
+</svg>
