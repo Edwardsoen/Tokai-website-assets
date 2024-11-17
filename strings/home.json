@@ -1,0 +1,42 @@
+{ 
+    "carousell_items": [ 
+        { 
+            "card_title":"Tokai H16 Foglamp Bulb", 
+            "card_description":"The compact solution for powerful illumination on the road,", 
+            "card_button_text":"Learn More", 
+            "card_button_url":"/products/bulbs/h16", 
+            "card_image":"https://down-id.img.susercontent.com/file/id-11134207-7r98q-luj7ol3ldfpsa0"
+        }, 
+        { 
+            "card_title":"Tokai Transparent Snail Horn", 
+            "card_description":"A powerful, attention-grabbing sound that ensures safety and alerts others on the road with its distinctive tone and reliable performance.", 
+            "card_button_text":"Learn More", 
+            "card_button_url":"/products/horns/transparent-snail-horn", 
+            "card_image":"https://down-id.img.susercontent.com/file/id-11134207-7r98v-lvvy81yq5d0e8c"
+        }, 
+        { 
+            "card_title":"Tokai WL01 Warning light ", 
+            "card_description":"A beacon of safety in any situation.", 
+            "card_button_text":"Learn More", 
+            "card_button_url":"/products/beacon-lights/9005", 
+            "card_image":"https://down-id.img.susercontent.com/file/id-11134207-7r990-lvt44v0bbgjb01"
+        }
+    ], 
+
+    "card_items":[
+        { 
+            "card_title":"Drive Confidently: Enhance Safety and Style with Our Automotive Horns", 
+            "card_description":"Upgrade your safety and style with our powerful automotive horns. Designed for clear, attention-grabbing alerts, our horns keep you heard on the road. Choose reliability, choose safety—choose our horns for a confident driving experience.", 
+            "card_button_text":"Learn More", 
+            "card_button_url":"/products/horns", 
+            "card_image":"https://down-id.img.susercontent.com/file/id-11134207-7r98x-lulj1xnh1ry4c5"
+        }, 
+        { 
+            "card_title":"Our auto bulbs deliver unbeatable brightness and durability for a safer journey ahead.", 
+            "card_description":"Elevate your drive with our high-quality, durable automotive bulbs. Engineered for superior visibility, elegance, and longevity, they illuminate your journey with clarity and style. Experience confidence and sophistication on the road with our premium bulbs.", 
+            "card_button_text":"Learn More", 
+            "card_button_url":"/products/bulbs", 
+            "card_image":"https://images.tokopedia.net/img/cache/500-square/VqbcmM/2024/4/23/dad237ca-4f96-4412-b358-1f990c32f5cf.jpg"
+        }
+    ]
+}

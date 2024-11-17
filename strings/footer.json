@@ -1,0 +1,63 @@
+{ "footer_items": {
+    "en": [
+    { 
+        "footer_item_title":"Home", 
+        "footer_item_url":"#"
+    },
+    { 
+        "footer_item_title":"About", 
+        "footer_item_url":"About"
+    },
+    { 
+        "footer_item_title":"Bulbs", 
+        "footer_item_url":"bulbs"
+    }, 
+    { 
+        "footer_item_title":"Horns", 
+        "footer_item_url":"horns"
+    }, 
+    { 
+        "footer_item_title":"Warning Lights", 
+        "footer_item_url":"warning-lights"
+    }, 
+    { 
+        "footer_item_title":"Others", 
+        "footer_item_url":"others"
+    }, 
+    { 
+        "footer_item_title":"Products", 
+        "footer_item_url":"products"
+    }
+    ], 
+    "id":  [
+        { 
+            "footer_item_title":"Home", 
+            "footer_item_url":"#"
+        },
+        { 
+            "footer_item_title":"About", 
+            "footer_item_url":"About"
+        },
+        { 
+            "footer_item_title":"Bohlam", 
+            "footer_item_url":"bulbs"
+        }, 
+        { 
+            "footer_item_title":"Klakson", 
+            "footer_item_url":"horns"
+        }, 
+        { 
+            "footer_item_title":"Lampu Rotary", 
+            "footer_item_url":"warning-lights"
+        }, 
+        { 
+            "footer_item_title":"Lainya", 
+            "footer_item_url":"others"
+        }, 
+        { 
+            "footer_item_title":"Produk", 
+            "footer_item_url":"products"
+        }
+        ]
+}
+}
