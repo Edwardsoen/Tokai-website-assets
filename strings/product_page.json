@@ -2,27 +2,27 @@
     "pages": [
         { 
             "url": "products", 
-            "banner_image": "assets/other-images/product-catalogue.jpg", 
+            "banner_image": "https://edwardsoen.github.io/Tokai-website-assets/other_images/product-catalogue.jpg", 
             "banner_image_text": "Product Catalogue"
         }, 
         { 
             "url": "beacon-lights", 
-            "banner_image": "assets/other-images/beacon-lights.jpg", 
+            "banner_image": "https://edwardsoen.github.io/Tokai-website-assets/other_images/beacon-lights.jpg", 
             "banner_image_text": "Beacon Lights"
         }, 
         { 
             "url": "horns", 
-            "banner_image": "assets/other-images/horns.jpg", 
+            "banner_image": "https://edwardsoen.github.io/Tokai-website-assets/other_images/horns.jpg", 
             "banner_image_text": "Horns"
         }, 
         { 
             "url": "bulbs", 
-            "banner_image": "assets/other-images/bulbs.jpg", 
+            "banner_image": "https://edwardsoen.github.io/Tokai-website-assets/other_images/bulbs.jpg", 
             "banner_image_text": "Bulbs"
         }, 
         { 
             "url": "others", 
-            "banner_image": "assets/other-images/product-catalogue.jpg", 
+            "banner_image": "https://edwardsoen.github.io/Tokai-website-assets/other_images/product-catalogue.jpg", 
             "banner_image_text": "Others"
         }
 
